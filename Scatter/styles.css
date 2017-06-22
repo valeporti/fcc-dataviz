@@ -1,0 +1,26 @@
+.noDop {
+  fill: #3F681C;
+  opacity: 0.7;
+  stroke: #375E97;
+}
+.yesDop {
+  fill: #FB6542;
+  opacity: 0.7;
+  stroke: #375E97;
+}
+#title {
+  color: #4C3F54;
+  text-align: center;
+  font-size: 30px;
+  margin: 60px auto auto auto;
+}
+#chartHolder {
+  text-align: center;
+}
+.subttl {
+  fill: #4C3F54;
+  font-size: 20px;
+}
+.dot:hover {
+  fill: #F2C057;
+}

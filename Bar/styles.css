@@ -1,0 +1,19 @@
+#title {
+  color: #4C3F54;
+  text-align: center;
+  font-size: 30px;
+  margin: 60px auto auto auto;
+}
+#chartHolder {
+  text-align: center;
+}
+.subttl {
+  fill: #4C3F54;
+  font-size: 20px;
+}
+.bar {
+  fill: #4C3F54;
+}
+.bar:hover {
+  fill: #F2C057;
+}
