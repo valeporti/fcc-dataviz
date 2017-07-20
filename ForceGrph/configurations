@@ -1,0 +1,8 @@
+Javascript
+https://d3js.org/d3.v4.js
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js
++ Maybe prepocessor -> Babel
+
+CSS
+https://www.cs.mun.ca/~h65ped/Public/country%20data%20for%20force%20directed%20graph/flags.css
++ Maybe prepocessor -> SCSS

@@ -1,0 +1,71 @@
+/*https://www.cs.mun.ca/~h65ped/Public/country%20data%20for%20force%20directed%20graph/flags.css*/
+
+#container {
+
+  margin: auto;
+  width: 800px;
+  height: 500px;
+}
+
+#title {
+  //background-color: yellow;
+  margin:auto;
+  position: absolute;
+  text-align: center;
+  width: 400px;
+  height: 200px;
+  padding: 100px 200px;
+  font-family: Century Gothic, sans-serif;
+  font-weight: bold;
+  font-size: 80px;
+  opacity: 0.3;
+  transition: all 0.5s;
+  color: #6441a5;
+  animation: neon2 1.5s ease-in-out infinite alternate;
+}
+
+.flag {
+	position: absolute;
+}
+
+#flagsHolder {
+	position: absolute;
+  margin:auto;
+  //background-color: gray;
+}
+
+#chartHolder {
+  margin:auto;
+  //background-color: gray;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 3px 5px 3px 5px;
+  font: 1em sans-serif;
+  border: 0px;
+  border-radius: 5px;
+  pointer-events: none;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+  background-color: black;
+}
+.country {
+  font-family: Roboto, sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: white;
+  white-space: nowrap;
+}
+
+
+@keyframes neon2 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #82a541, 0 0 70px #82a541, 0 0 80px #82a541, 0 0 100px #82a541, 0 0 150px #82a541;
+  }
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #82a541, 0 0 35px #82a541, 0 0 40px #82a541, 0 0 50px #82a541, 0 0 75px #82a541;
+  }
+}
