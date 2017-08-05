@@ -1,5 +1,5 @@
 # Data Visualization Projects
-Free Code Camp Data Visualization Projects
+Free Code Camp Data Visualization Projects (**ReactRedux, d3 ...**)
 
 ## What is this?
 In the folders you can find the code with which the projects have been done.
@@ -11,6 +11,9 @@ Projects are ment to improve programming skills, visualization oriented delivera
 
 
 ## Projects (please click on the project names to acces the project working page):
+
+### Charting Projects
+
 [**Bar Chart**](https://codepen.io/valeporti/full/MoJQRM/)
 
 [**ScatterPlot Graph**](https://codepen.io/valeporti/full/EXZREY/)
