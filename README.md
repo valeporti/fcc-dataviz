@@ -14,11 +14,11 @@ Projects are ment to improve programming skills, visualization oriented delivera
 
 ### Graph-based Projects
 
-[**Bar Chart**](https://codepen.io/valeporti/full/MoJQRM/)
+[**Bar Chart**](https://codepen.io/valeporti/full/MoJQRM/) `get(json) -> display info in a bar chart (US gross domestic product by quarter over time) + be able to mouse over a bar and see tooltip`
 
-[**ScatterPlot Graph**](https://codepen.io/valeporti/full/EXZREY/)
+[**ScatterPlot Graph**](https://codepen.io/valeporti/full/EXZREY/) `get(json) -> display info in a scatterplot graph (doping in professional bicycle racing) + be able to mouse over a bar and see tooltip`
 
-[**Heat Map**](https://codepen.io/valeporti/full/KqvdQB/)
+[**Heat Map**](https://codepen.io/valeporti/full/KqvdQB/) `get(json) -> display heating info in a graph
 
 [**Force Graph**](https://codepen.io/valeporti/full/XgVxJr/)
 
