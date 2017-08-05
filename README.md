@@ -14,13 +14,21 @@ Projects are ment to improve programming skills, visualization oriented delivera
 
 ### Graph-based Projects
 
-[**Bar Chart**](https://codepen.io/valeporti/full/MoJQRM/) `get(json) -> display info in a bar chart (US gross domestic product by quarter over time) + be able to mouse over a bar and see tooltip`
+[**Bar Chart**](https://codepen.io/valeporti/full/MoJQRM/) 
 
-[**ScatterPlot Graph**](https://codepen.io/valeporti/full/EXZREY/) `get(json) -> display info in a scatterplot graph (doping in professional bicycle racing) + be able to mouse over a bar and see tooltip`
+`get(json) -> display info in a bar chart (US gross domestic product by quarter over time) + be able to mouse over a bar and see tooltip`
 
-[**Heat Map**](https://codepen.io/valeporti/full/KqvdQB/) `get(json) -> display heating info in a graph
+[**ScatterPlot Graph**](https://codepen.io/valeporti/full/EXZREY/) 
+
+`get(json) -> display info in a scatterplot graph (doping in professional bicycle racing) + be able to mouse over a bar and see tooltip`
+
+[**Heat Map**](https://codepen.io/valeporti/full/KqvdQB/) 
+
+`get(json) -> display heating info in a graph per year and month + cells colored according to inter-relationship + be able to mouse over a bar and see tooltip`
 
 [**Force Graph**](https://codepen.io/valeporti/full/XgVxJr/)
+
+`get(json) -> display a force-directed graph that shows countries chared borders + I can see each flag on nodes`
 
 ### React && Redux Projects
 
@@ -28,4 +36,8 @@ Projects are ment to improve programming skills, visualization oriented delivera
 
 [**Markdown Previewer**](https://codepen.io/valeporti/full/pwMxgy/) -> using just React
 
+`I can type GitHub-flavored Markdown + I can see a preview of the input transformed as I type`
+
 [**Campers LeaderBoard**](https://codepen.io/valeporti/full/jLNebN/)
+
+`get(json) -> display a table of freecodecampers who has earned brownie points in last 30 days, how many in total and in last 30 days + I can toggle the list`
