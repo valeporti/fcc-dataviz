@@ -1,0 +1,12 @@
+Javascript
+https://cdnjs.cloudflare.com/ajax/libs/react/15.6.1/react.js
+https://cdnjs.cloudflare.com/ajax/libs/react/15.6.1/react-dom.min.js
+https://cdnjs.cloudflare.com/ajax/libs/redux/3.7.2/redux.js
+https://cdnjs.cloudflare.com/ajax/libs/react-redux/5.0.5/react-redux.js
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js   //Jqery
++ Maybe Prepocessor -> Babel
+
+CSS
+//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css
+//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
++ preprocessor: SASS

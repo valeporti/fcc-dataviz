@@ -1,0 +1,31 @@
+#markPrevContainer
+  display: flex //to put them one to each other
+  flex-direction: row //it moves the main axis from vertial (row) to horizontal) OR column-reverse -> it reverses the order of the divs
+  justify-content: space-around
+  //border: solid gray
+#toeditRec
+  //border: solid black
+  width: 40%
+  //background-color: yellow
+  //overflow-x: hidden
+  //overflow-y: hidden
+  padding: 0 10px 10px 0 //to not let the "textarea" element to get out from div
+#prevRec
+  //border: solid black
+  width: 40%
+#inputRec
+  width: 100%
+  height: 100%
+  overflow-x: hidden //put a moving bar if the text exceeds the size
+  overflow-y: hidden 
+  resize: none
+p 
+  padding: 0 //to avoid doublespacing
+  margin: 0
+#titler
+  margin: 20px 0 0 0 
+  display: flex
+  flex-direction: column
+  align-items: center
+#intro
+  margin: 0 0 20px 0

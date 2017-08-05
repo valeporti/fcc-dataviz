@@ -1,0 +1,88 @@
+#bigDaddy
+  padding: 20px
+#tableHeader 
+  display: flex
+  flex-direction: row
+  justify-content: space-around
+  max-width: 800px
+  background-color: #D13525
+  color: #FFFDF8
+  min-height: 35px
+  //border: solid
+.tbHdElement
+  width: 33%
+  text-align: center
+  overflow: hidden
+  margin: auto
+.btns
+  background-color: #638CA6
+  border-radius: 8px
+  //height: 20px
+  //box-shadow: 0 3px #777
+  color: #FFFDF8
+.btns:active 
+  background-color: #001115
+  box-shadow: 0 1px #F2C057
+  transform: translateY(2px)
+.recentbtn:hover 
+  background: #4C3F54
+.alltmsbtn:hover 
+  background: #486824
+.recentbtnDiv
+  border-right: 1px solid
+.alltmsbtnDiv
+#tableTitle
+  font-weight: bold
+  text-align: center
+  vertical-align: middle
+  border-right: 1px solid
+//TABLE
+#tableContainer
+  overflow-x: auto
+  display: flex
+  max-width: 800px
+#campersTable
+  //display: flex
+  //flex-direction: row
+  //justify-content: space-around
+  border-collapse: collapse
+  border-spacing: 0
+  border: 1px solid #ddd
+  overflow: hidden
+  //max-width: 800px
+  width: 100%
+  //overflow: hidden
+  //resize: none
+tr:nth-child(even)
+  background-color: #FFE4AA
+tr:nth-child(odd)
+  background-color: #FFD67F
+th, td
+  text-align: middle
+  padding: 3px
+  border: 1px solid #ccc
+  max-width: 70px 
+  //dirty trick: give a small max width to cell so we can forget about its size and let the table manage a responsive design
+  color: #D13525
+th
+  background-color: #F2C057 
+.each-cell
+  overflow: hidden
+  margin: auto
+  text-align: center
+  display: flex
+.camperCol
+  width: 250px
+.filt:hover
+  cursor: pointer
+  color: #4C3F54
+  text-decoration: underline
+.imageInCell
+  margin: auto 4px auto auto
+  width: 18px
+.userCell
+  margin: auto auto auto 4px
+.cell-content
+  margin: auto
+.fa
+  padding: 3px
