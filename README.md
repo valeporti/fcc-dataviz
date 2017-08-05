@@ -12,7 +12,7 @@ Projects are ment to improve programming skills, visualization oriented delivera
 
 ## Projects (please click on the project names to acces the project working page):
 
-### Charting Projects
+### Graph-based Projects
 
 [**Bar Chart**](https://codepen.io/valeporti/full/MoJQRM/)
 
@@ -21,3 +21,11 @@ Projects are ment to improve programming skills, visualization oriented delivera
 [**Heat Map**](https://codepen.io/valeporti/full/KqvdQB/)
 
 [**Force Graph**](https://codepen.io/valeporti/full/XgVxJr/)
+
+### React && Redux Projects
+
+[**Markdown Previewer**](https://codepen.io/valeporti/full/XarebN/)
+
+[**Markdown Previewer**](https://codepen.io/valeporti/full/pwMxgy/) -> using just React
+
+[**Campers LeaderBoard**](https://codepen.io/valeporti/full/jLNebN/)
